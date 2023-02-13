@@ -9,3 +9,4 @@ Werkzeug==2.2.2
 zipp==3.10.0
 tokenizers==0.12.1
 transformers==4.19.4
+torch==1.13.1
